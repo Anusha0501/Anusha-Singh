@@ -1,13 +1,13 @@
 <p align="center">
-  <h1>Avikalp (Avi) Karrahe</h1>
-  <p><strong>AI Visionary | MSBA ’25 @ UC Davis GSM</strong></p>
+  <h1>Anusha Singh</h1>
+  <p><strong>AI Visionary | BTech ’26 @ BML Munjal University</strong></p>
   <p><em>Engineering high-impact AI systems at the edge of innovation and execution.</em></p>
   <p>
-    <a href="https://www.linkedin.com/in/avikalp">
+    <a href="https://www.linkedin.com/in/anusha-singh01/">
       <img src="https://img.shields.io/badge/LinkedIn-@avikalp-blue?logo=linkedin" alt="LinkedIn"/>
     </a>
     &nbsp;
-    <a href="https://github.com/Avikalp-Karrahe">
+    <a href="https://github.com/Anusha0501">
       <img src="https://img.shields.io/badge/GitHub-@Avikalp--Karrahe-black?logo=github" alt="GitHub"/>
     </a>
     &nbsp;
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌟 Why the Best Companies Choose Me
+## 🌟 Why should the Best Companies Choose Me
 
 - **Builder of AI-First Products**: From autonomous pitch copilots to real-time maintenance advisors, I build tools that work in production—not just prototypes. My systems @ The Coca-Cola Company have reduced Freestyle downtime and unlocked impactful savings.
 - **Full-Stack Data Expertise**: I engineer robust pipelines with **AWS**, **Redshift**, and **Airflow**, and deploy models using **GPT-4**, **Prophet**, and **Streamlit**—ensuring insights don’t just sit in dashboards, but drive decisions.
@@ -100,11 +100,6 @@
 ---
 
 ## 🎓 Education
-
-### 🏛️ University of California, Davis
-**Master of Science, Business Analytics** | San Francisco, CA | Expected Aug 2025
-
-*Highlighted Coursework:* Advanced Statistics & Forecasting, Machine Learning, Big Data, Marketing Analytics, Analytical Decision Making
 
 ### 🏛️ SRM Institute of Science and Technology
 **Bachelor of Technology, Electronics and Communication** | Chennai, India | June 2018 – May 2022
